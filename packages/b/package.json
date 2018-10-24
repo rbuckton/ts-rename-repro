@@ -1,0 +1,10 @@
+{
+    "name": "b",
+    "version": "0.0.0",
+    "private": true,
+    "main": "dist",
+    "types": "dist",
+    "dependencies": {
+        "a": "^0.0.0"
+    }
+}
